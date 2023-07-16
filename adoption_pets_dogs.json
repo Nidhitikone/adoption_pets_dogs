@@ -1,0 +1,26 @@
+{
+    "dogs": [
+      {
+        "id": 1,
+        "name": "Todd",
+        "age": "1 Year",
+        "breed":"Boxer",
+        "sex":"Female",
+        "image":"https://th.bing.com/th/id/OIP.L9eUmHR0UHg-ztDus_M5awAAAA?pid=ImgDet&rs=1",
+        "description":"Meet Todd. ",
+        "vaccinated":"Yes",
+        "spayed/nutered":"Yes"
+      },
+      {
+        "id": 2,
+        "name": "Pablo",
+        "age": "4 Years",
+        "breed":"Bull Dog",
+        "sex":"Male",
+        "image":"https://4.bp.blogspot.com/-f07LXwPKJJE/UPL-yc2leqI/AAAAAAAADzY/fbK_OmZHn4s/s1600/American-Bulldog-Facts-and-Images+02.jpg",
+        "description":"Meet Pablo. ",
+        "vaccinated":"Yes",
+        "spayed/nutered":"Yes"
+      }
+    ]
+  }
